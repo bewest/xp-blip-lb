@@ -12,6 +12,7 @@
   "dependencies": {
     "bouncy": "~3.2.0",
     "ecstatic": "~0.4.5",
-    "http-proxy": "~0.10.3"
+    "http-proxy": "~0.10.3",
+    "harmon": "~0.1.0"
   }
 }
